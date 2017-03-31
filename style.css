@@ -1,0 +1,53 @@
+
+body {
+	background-color: #000;
+	background: url("https://static.pexels.com/photos/64775/pexels-photo-64775.jpeg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+	background-size: cover;
+	color: #fff;
+	padding: 30px;
+	font-size: 30px;
+	padding: 15px;
+	font-family: 'Vollkorn', serif;
+	text-align: center;
+}
+h1, h4 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	margin: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+h4 {
+	font-size: 18px;
+	text-decoration: overline;
+	font-weight: 900;
+	}
+.city {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+.temperature, #description {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.temperature {
+	font-size: 56px;
+	cursor: pointer;
+}
+#change {
+	color: #ccc;
+}
+.highlight {
+	background-color:rgba(111, 140, 153, 0.25);
+	display: inline-block;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+.msg {
+	
+}
+
